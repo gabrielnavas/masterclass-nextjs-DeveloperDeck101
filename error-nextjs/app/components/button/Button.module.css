@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+  border-radius: 1.05rem;
+  padding: 1.05rem;
+  font-weight: bold;
+  margin: 1.05rem;
+  cursor: pointer;
+  width: 100%;
+  transition-duration: 250ms;
+}
+
+.container:hover {
+  transform: rotate(0.01turn);
+  background-color: #222;
+}

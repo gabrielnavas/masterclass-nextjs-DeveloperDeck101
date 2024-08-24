@@ -1,0 +1,19 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.header {
+  width: 100%;
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+}
+
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
